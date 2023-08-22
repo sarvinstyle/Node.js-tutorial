@@ -1,0 +1,17 @@
+{
+  "name": "node-tutorial-3",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.13.6",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {}
+}
